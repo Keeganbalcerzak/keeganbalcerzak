@@ -1,0 +1,1 @@
+**Thoth** is a Windows whiteboard tutor I’m building. Students can bring in a course PDF, work through a problem on the board, and revisit concepts through spaced practice. I’m rebuilding it from my earlier voice-tutor prototype, [When It Clicked](https://github.com/Keeganbalcerzak/when-it-clicked).
